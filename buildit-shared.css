@@ -316,7 +316,7 @@
   color: var(--color-header);
   text-transform: uppercase;
   letter-spacing: 0.03em;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 }
 
 /* Link navigazione */
